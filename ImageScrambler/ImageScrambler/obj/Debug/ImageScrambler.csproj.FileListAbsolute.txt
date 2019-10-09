@@ -1,0 +1,9 @@
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\bin\Debug\ImageScrambler.exe
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\bin\Debug\ImageScrambler.pdb
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.csprojAssemblyReference.cache
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.frmMain.resources
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.Properties.Resources.resources
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.csproj.GenerateResource.cache
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.exe
+C:\Users\spide\source\repos\ImageScrambler\ImageScrambler\obj\Debug\ImageScrambler.pdb
